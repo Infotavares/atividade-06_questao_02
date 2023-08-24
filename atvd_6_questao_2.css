@@ -1,8 +1,23 @@
-.meu-input {
-    width: 45%;
+#pesquisar {
+    width: 90%;
     padding: 1%;
     border: 1px solid #ccc;
     border-radius: 100px;
     background-color: #f4f4f4;
-    color: #333;
+    color: #ffffff;
+}
+
+#logo {
+    height: 300px;
+    width: 300px;
+    top: 0px;
+    right: 35%;
+}
+
+
+
+.rodape {
+    background-color: #333;
+    position: absolute;
+    bottom: 0px;
 }
