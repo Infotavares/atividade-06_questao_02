@@ -1,0 +1,8 @@
+.meu-input {
+    width: 45%;
+    padding: 1%;
+    border: 1px solid #ccc;
+    border-radius: 100px;
+    background-color: #f4f4f4;
+    color: #333;
+}
